@@ -1,0 +1,106 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+body {
+        font-family: 'Cabin', sans-serif;
+}
+nav {
+    background-color: #373A3C;
+}
+nav .a1 {
+    font-size: 3.1em;
+    font-family: 'Lobster', cursive;
+    padding-left: 10%;
+}
+nav .a2, .a3, .a4, .a5{
+    font-size: 1em;
+}
+nav ul {
+    padding-right: 10%;
+}
+.burguer {
+    padding-right: 5%;
+}
+header .titulo-card-vertical {
+    font-size: 2.1em;
+    color: #373A3C;
+}
+header .contenido-card-vertical {
+    font-size: 1.3em;
+}
+header .titulo-card-horizontal {
+    font-size: 3.3em;
+    color: #373A3C;
+}
+header .contenido-card-horizontal{
+    font-size: 1.7em;
+}
+header .boton {
+    font-size: 1.3em;
+    width: 12em;
+}
+.section2 p, li{
+    font-size: 1.7em;
+    color: #373A3C;
+}
+#ingredientes, #preparacion{
+    text-decoration: underline;
+}
+.section2 ul li {
+    list-style: none;
+}
+ol li {
+    text-align: justify;
+}
+.titulotarjeta {
+    font-size: 1.9em;
+}
+.card-content {
+    font-size: 1.3em;
+}
+.section3 .card-text {
+    text-align: justify;
+}
+.section3 .recetas{
+    font-size: 3.3em;
+}
+.section4 {
+    background-color: #DC3545;
+}
+.section4 .p1 {
+    font-size: 3.3em;
+}
+.section4 .p2 {
+    font-size: 2.5em;
+}
+.section4 .p3{
+    font-size: 1em;
+    font-family: 'Lobster', cursive;
+}
+.section4 .boton{
+    font-size: 1.3em;
+    padding: 0.2% 7%;
+}
+.section4 .div1{
+    padding-top: 10%;
+    margin-bottom: 3%;
+}
+.section4 .div2{
+    
+    margin-bottom: 10%;
+}
+.section5 {
+    background-color: #373A3C;
+}
+.section5 .a1 {
+    font-size:3.1em;
+    font-family: 'Lobster', cursive;
+}
+
+
+
+
+
